@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eth-withdraw-ann/static/css/main.1d26504d.css",
+    "main.js": "/eth-withdraw-ann/static/js/main.3c97fb01.js",
+    "static/js/787.62f2f713.chunk.js": "/eth-withdraw-ann/static/js/787.62f2f713.chunk.js",
+    "index.html": "/eth-withdraw-ann/index.html",
+    "main.1d26504d.css.map": "/eth-withdraw-ann/static/css/main.1d26504d.css.map",
+    "main.3c97fb01.js.map": "/eth-withdraw-ann/static/js/main.3c97fb01.js.map",
+    "787.62f2f713.chunk.js.map": "/eth-withdraw-ann/static/js/787.62f2f713.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d26504d.css",
+    "static/js/main.3c97fb01.js"
+  ]
+}
